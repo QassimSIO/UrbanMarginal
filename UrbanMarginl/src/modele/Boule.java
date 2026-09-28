@@ -3,7 +3,6 @@ package modele;
  * Gestion de la boule
  *
  */
-
 public class Boule extends Objet {
 
 	/**
